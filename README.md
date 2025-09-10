@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Mohammad Umran Rahman
+- **CCID:** rahman12
 
 ## References and Resources
 
