@@ -49,6 +49,12 @@ public class MainActivity extends AppCompatActivity {
         confirm.setClickable(false);
         // took help from stackoverflow with the link below for both buttons
         //https://developer.android.com/develop/ui/views/components/button#java
+        /* Other links that have been used for some other stuff:
+        * https://stackoverflow.com/questions/33138862/text-box-in-android
+        * https://stackoverflow.com/questions/25002788/add-items-to-an-arrayliststring-that-has-been-passed-between-activities
+        * https://stackoverflow.com/questions/5740708/android-clearing-all-edittext-fields-with-clear-button
+        * https://www.digitalocean.com/community/tutorials/java-remove-array-elements
+        * */
         add = findViewById(R.id.add);
         add.setOnClickListener(new View.OnClickListener() {
             @Override
